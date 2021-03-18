@@ -6,8 +6,9 @@
 * https://youtu.be/NQvAatfP9nw
 
 ## :grey_question: What is it?
-* Uses CMU's OpenPose to detect key body angles. For me these were the arms, but I have included legs too.
+* Uses CMU's OpenPose to detect key body angles. 
 * To detect angles, I use the law of cosines (see prior GitHub repo that I made)
+* Compares these frame angles and finds the closest JoJo pose.
 ## :zap: Features:
 * Detects body angles!
 * Stores body angles!
@@ -24,7 +25,7 @@
 * pygame: https://www.pygame.org/news
 * time (in get_snapshot): https://docs.python.org/3/library/time.html
 
-## The original work:
+## Basis:
 * This idea is based on the work from:
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
