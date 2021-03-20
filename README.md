@@ -30,7 +30,7 @@
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 ## Guide-video:
-* Coming soon!
+* https://www.youtube.com/watch?v=09Tg1hXWGAM&ab_channel=log1
 
 ###### :hammer: To do:
 * Make it more accurate! Add more Jojo!
