@@ -15,7 +15,6 @@
 * Compares input body angles to stored one!
 * Returns the comparison!
 * When returned, changes the input frame and plays music!
-* Is a JoJo reference!
 
 ## :package: Modules / Packages:
 * numpy: https://numpy.org/devdocs/user/quickstart.html
@@ -31,6 +30,3 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 ## Guide-video:
 * https://www.youtube.com/watch?v=09Tg1hXWGAM&ab_channel=log1
-
-###### :hammer: To do:
-* Make it more accurate! Add more Jojo!
