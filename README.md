@@ -1,9 +1,6 @@
 # JoJoPoseEstimation
 
-## Using OpenPose to recognize Poses from JoJo's Bizarre Adventure.
-
-## :cinema: Video:
-* https://youtu.be/NQvAatfP9nw
+## Using OpenPose to recognize Poses.
 
 ## :grey_question: What is it?
 * Uses CMU's OpenPose to detect key body angles. 
